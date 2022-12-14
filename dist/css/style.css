@@ -338,8 +338,8 @@ footer {
       justify-content: space-between; }
       header nav .hamburger-lines .line {
         display: block;
-        height: 2px;
-        width: 80%;
+        height: 2.5px;
+        width: 100%;
         border-radius: 20px;
         background: #333; }
       header nav .hamburger-lines .line1 {
