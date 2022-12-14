@@ -161,20 +161,20 @@
     }
   }
 
-  .items {
+  
 
     .item {
       &-text-title {
-        font-size: 1.7rem;
+        font-size: 1rem;
 
       }
 
       &-text-category {
-        font-size: 1.1rem;
+        font-size: 0.7rem;
 
       }
     }
-  }
+  
 
   // #section--4{
   //   .contact-body{
@@ -249,15 +249,15 @@
     }
   }
 
-  .item {
-    &-text-title {
-      font-size: 1.5rem;
-    }
+  // .item {
+  //   &-text-title {
+  //     font-size: 1rem;
+  //   }
 
-    &-text-category {
-      font-size: 0.9rem;
-    }
-  }
+  //   &-text-category {
+  //     font-size: 0.2rem;
+  //   }
+  // }
 
 
 }

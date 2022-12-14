@@ -267,7 +267,7 @@ form button {
   form input::placeholder,
   form textarea::placeholder,
   form button::placeholder {
-    color: #7b7b7b;
+    color: #7a7b7b;
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-size: 0.9rem;
     letter-spacing: 1.5px; }
@@ -399,10 +399,10 @@ footer {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     margin: 2rem; }
-  .items .item-text-title {
-    font-size: 1.7rem; }
-  .items .item-text-category {
-    font-size: 1.1rem; } }
+  .item-text-title {
+    font-size: 1rem; }
+  .item-text-category {
+    font-size: 0.7rem; } }
 
 @media (max-width: 500px) {
   h2,
@@ -428,8 +428,4 @@ footer {
     #section--1 .about-body .about-text ul li {
       font-size: 0.85rem; }
   #section--2 .project {
-    margin: 2rem; }
-  .item-text-title {
-    font-size: 1.5rem; }
-  .item-text-category {
-    font-size: 0.9rem; } }
+    margin: 2rem; } }
